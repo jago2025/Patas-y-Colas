@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://patasycolas.com/index.html</loc>
+    <lastmod>2019-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://patasycolas.com/images/svg-pegado-847x636.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://patasycolas.com/images/348.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://patasycolas.com/images/svg-pegado-136582x136.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://patasycolas.com/images/sin%20t%C3%ADtulo-1-03.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://patasycolas.com/images/sin%20t%C3%ADtulo-1-04.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://patasycolas.com/images/sin%20t%C3%ADtulo-1-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://patasycolas.com/images/sin%20t%C3%ADtulo-1-02.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://patasycolas.com/images/svg-pegado-87715x169.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://patasycolas.com/images/up.png</image:loc>
+    </image:image>
+  </url>
+</urlset>

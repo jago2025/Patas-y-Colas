@@ -1,0 +1,86 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="patasycolas.com" resolutions="1x" timestamp="1548433949296">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3992096018" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u269.php" crc="3780548587" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="quienes-somos1.jpg" crc="4001956190" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u105-4.png" crc="4283526347" ref="index"/>
+    <file name="u106-4.png" crc="164729989" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u849.png" crc="51463127" ref="index"/>
+    <file name="u849-a.png" crc="51463127" ref="index"/>
+    <file name="svg-pegado-847x636.svg" crc="174476514" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg pegado 847x636_poster_.png" crc="4215774800" ref="index"/>
+    <file name="348.png" crc="4029944104" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quienes somos.jpg" crc="495937295" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="servicios.jpg" crc="3998206001" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2895-4.png" crc="4222197270" ref="index"/>
+    <file name="svg-pegado-136582x136.svg" crc="532089030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg pegado 136582x136_poster_.png" crc="167991543" ref="index"/>
+    <file name="u2652-4.png" crc="4265949295" ref="index"/>
+    <file name="u501-4.png" crc="3763850348" ref="index"/>
+    <file name="u498-6.png" crc="281856785" ref="index"/>
+    <file name="u2625-4.png" crc="227696495" ref="index"/>
+    <file name="sin título-1-03.png" crc="4126110518" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sin título-1-04.png" crc="3799869592" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2631-4.png" crc="4195810675" ref="index"/>
+    <file name="u2637-4.png" crc="312759902" ref="index"/>
+    <file name="sin título-1-01.png" crc="329832779" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sin título-1-02.png" crc="3805536134" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2649-4.png" crc="3960329037" ref="index"/>
+    <file name="u2646-6.png" crc="4112379095" ref="index"/>
+    <file name="u107_states.png" crc="521629945" ref="index"/>
+    <file name="u107_states-r.png" crc="4203671544" ref="index"/>
+    <file name="u108_states.png" crc="51332868" ref="index"/>
+    <file name="u108_states-r.png" crc="4012378183" ref="index"/>
+    <file name="u109_states.png" crc="3905024249" ref="index"/>
+    <file name="u109_states-r.png" crc="472661710" ref="index"/>
+    <file name="svg-pegado-87715x169.svg" crc="174654504" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg pegado 87715x169_poster_.png" crc="361465766" ref="index"/>
+    <file name="up.png" crc="256656222" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="365633110" seo="true" mt="1548433890876" redirect="true"/>
+</manifest>
